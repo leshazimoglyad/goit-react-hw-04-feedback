@@ -40,7 +40,7 @@ const Button = styled.button`
     color: white;
   }
   &.good:hover {
-    background-color: green;
+    background-color: black;
     border-color: green;
   }
   &.bad:hover {
